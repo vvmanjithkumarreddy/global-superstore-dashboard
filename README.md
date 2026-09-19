@@ -11,16 +11,16 @@ Three-page Power BI dashboard analyzing sales, profit, and delivery performance 
 
 ### 1. Sales Overview
 KPI cards (Sales, Profit, Orders, Customers), monthly Sales/Profit trend, Sales Target KPI with a Profit-vs-Target gauge, Profit and Sales by Market, Category/Segment slicers.
-![page 1](page1.png)
+![page 1](page 1.png)
 
 
 ### 2. Category & Regional Breakdown
 Total Sales by Year, Orders by Delivery Type, Sales by Region, Orders by Delivery Status.
-![page 2](page2.png)
+![page 2](page 2.png)
 
 
 ### 3. Geographic Analysis
 Total Profit by Country and Total Sales by Country, plotted on maps.
-![page 3](page3.png)
+![page 3](page 3.png)
 
 
