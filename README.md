@@ -11,7 +11,7 @@ Three-page Power BI dashboard analyzing sales, profit, and delivery performance 
 
 ### 1. Sales Overview
 KPI cards (Sales, Profit, Orders, Customers), monthly Sales/Profit trend, Sales Target KPI with a Profit-vs-Target gauge, Profit and Sales by Market, Category/Segment slicers.
-![page 1](https://raw.githubusercontent.com/vvmanjithkumarreddy/global-superstore-dashboard/main/page%201.png)
+![page 1](page-1.png)
 
 ### 2. Category & Regional Breakdown
 Total Sales by Year, Orders by Delivery Type, Sales by Region, Orders by Delivery Status.
